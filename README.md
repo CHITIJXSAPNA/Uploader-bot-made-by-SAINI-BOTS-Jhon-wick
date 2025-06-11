@@ -2,7 +2,7 @@
 
 # Deploy Your App to Heroku
 
-[![Deploy to heroku chacha](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/nikhilsainiop/Uploader-bot-made-by-SAINI-BOTS-Jhon-wick)
+[![Deploy to heroku chacha](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CHITIJXSAPNA/Uploader-bot-made-by-SAINI-BOTS-Jhon-wick)
 
 ## Deploy To Google Colab
 
